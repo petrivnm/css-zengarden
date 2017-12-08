@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+body {
+    background-image: url(../space.jpg); 
+    background-color: #180c776; 
+    max-width:1000px;
+    margin: 0 auto;
+    padding: 0;
+    font-family: georgia,"times new roman",times,serif;
+    color: #21d11b;
+}
+
+
+a {
+    color: #15dcd8eb;
+}
+
+h1, h2, h3, h4{
+ font-family: 'UnifrakturMaguntia', cursive;
+}
+
+.intro h1{
+    font-size:100px;
+    text-align: center;
+    margin:100px;
+}
+
+.intro h2{
+    font-size:25px;
+    text-align: center;
+    margin:30px;
+}
+
+.summary{  
+    border-bottom-width:1px;
+    border-bottom-style:solid;
+    border-bottom-color: #16cd1c;
+    padding-bottom:10px;
+}
+
+.summary p {
+    text-align:center;
+     font-size:14px;
+     margin:5px;
+}
+
+.summary a{
+   font-weight:600;
+   text-transform: uppercase;
+}
+
+.preamble{
+    margin-top:20px;
+    margin-bottom:0px;
+    margin-left:5px;
+    margin-right:5px;
+    padding:20px;
+    border-width:1px;
+    border-style:dashed;
+    border-color: #16cd1c;
+    background-color: #ffa64f15;
+}
+
+.main div {
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:5px;
+    margin-right:5px;
+    padding:50px;
+    border-width:1px;
+    border-style:dashed;
+    border-color: #16cd1c;
+    background-color: #ffa64f15;
+}
+
+.sidebar{
+    display:none;
+}
