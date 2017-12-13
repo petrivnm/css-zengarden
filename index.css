@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
 
 body {
-    background-image: url(../img/space.jpg); 
+    background-image: url(img/space.jpg); 
     background-color: #180c776; 
     max-width:1000px;
     margin: 0 auto;
